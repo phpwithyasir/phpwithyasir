@@ -1,65 +1,39 @@
-# 👋 Hi there, I'm Yasir – Software Engineer | PHP Developer | Junior ETL Developer
+# 👋 Hi, I'm Yasir (phpwithyasir) | PHP & Laravel Specialist | ETL Developer
 
-Welcome to my GitHub! I'm a passionate full-stack developer with a strong focus on backend development using PHP and its modern frameworks. I also have hands-on experience in ETL (Extract, Transform, Load) processes, making me a versatile asset in data-driven application development.
+**Software Engineer** specializing in **PHP, Laravel, CodeIgniter** with hands-on experience in **ETL (Extract, Transform, Load)** processes and data pipeline development.
 
----
+## 🔧 Technical Expertise
 
-## 💼 About Me
+### 🖥️ Backend Development
+- **PHP Frameworks**: Laravel, CodeIgniter, Symfony
+- **API Development**: RESTful APIs, Third-party integrations
+- **Database**: MySQL, PostgreSQL, Database optimization
 
-- 💻 **Software Engineer** specializing in **PHP**, **Laravel**, and **CodeIgniter**
-- 🔄 **Junior ETL Developer** working with data pipelines and transformation tools
-- 🛠️ Experienced in designing scalable APIs, integrating third-party services, and managing relational databases
-- 🌐 Building clean, efficient, and secure web applications with a focus on maintainability and performance
-- 📊 Exploring data workflows and contributing to data engineering projects
+### 📊 ETL & Data Engineering
+- Talend Open Studio
+- Apache NiFi
+- Custom PHP ETL scripts
+- Data cleansing & transformation
 
----
+## 🚀 Featured Projects
 
-## 🧰 Technologies & Tools
+1. **[Project Name]** - Brief description (link)
+2. **[ETL Pipeline]** - Data processing solution (link)
+3. **[API Integration]** - Service connectivity framework (link)
 
-- **Languages:** PHP, SQL, JavaScript, Python (basic)
-- **Frameworks:** Laravel, CodeIgniter, Symfony
-- **ETL Tools:** Talend, Apache NiFi, custom PHP-based ETL scripts
-- **Databases:** MySQL, PostgreSQL
-- **Version Control:** Git & GitHub
-- **Other Skills:** REST APIs, MVC Architecture, Cron Jobs, Data Cleansing
+## 📝 Latest Blog Posts
+- [How to Optimize PHP Applications for Performance](#)
+- [ETL Best Practices with PHP](#)
+- [Laravel Architecture Patterns](#)
 
----
+## 📫 Let's Connect
+- Portfolio: [phpwithyasir.com](#) *(recommend creating one)*
+- LinkedIn: [linkedin.com/in/phpwithyasir](#)
+- Email: yasir@yourdomain.com
 
-## 🔭 What I’m Working On
+## 🔍 Why "phpwithyasir"?
+As phpwithyasir, I combine PHP expertise with practical data engineering skills to build robust, data-driven applications. My GitHub showcases my journey in backend development and ETL processes.
 
-- Building advanced Laravel-based backend systems
-- Automating data workflows and transformations
-- Contributing to open-source PHP and ETL-related projects
-
----
-
-## 🌱 What I’m Learning
-
-- Advanced **ETL workflows** and data warehousing
-- Cloud-native development (AWS, Azure)
-- Improving my frontend skills (Vue.js, Tailwind CSS)
-
----
-
-## 📫 How to Reach Me
-
-- 💼 [LinkedIn – phpwithyasir](https://www.linkedin.com/in/MuhammadYasir/)
-- 📧 Email – yasircode09@gmail.com
-
----
-
-## 📌 Featured Projects
-
-1. **Inventory Management System (Laravel)** – Complete backend for managing stock, orders, and invoices.
-2. **ETL Pipeline (PHP + SQL)** – Extracting and transforming data from CSV to normalized database structure.
-3. **E-Commerce API (Laravel)** – RESTful API for product, cart, and order management with JWT authentication.
-
----
-
-## ✨ Let's Connect
-
-Whether you're looking for a reliable developer to collaborate on web or data projects, or just want to connect over tech talk, feel free to reach out!
-
----
-
-_🔍 Keywords: PHP Developer, Laravel Engineer, CodeIgniter, Software Engineer, Junior ETL Developer, Data Pipelines, Backend Web Developer, Open Source Contributor, REST API Developer_
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Expert-important)
